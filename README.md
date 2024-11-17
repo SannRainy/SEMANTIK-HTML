@@ -11,15 +11,15 @@ Latihan Praktikum 1 Semantik HTML
 
 ### Apa yang membedakannya ??
 
-1. Pertama Tag <html> di index pertama tag html tidak ditulis didalam struktur HTML tersebut, memang sih dokumen tetap bisa ditampilkan dengan benar selama struktur HTML lainnya tertulis dengan baik. Namun, Jika dokumen HTML diperiksa menggunakan alat validasi seperti W3C Validator, dokumen tersebut akan dianggap tidak valid karena tag <html> wajib secara teknis.
+1. Pertama Tag html di index pertama tag html tidak ditulis didalam struktur HTML tersebut, memang sih dokumen tetap bisa ditampilkan dengan benar selama struktur HTML lainnya tertulis dengan baik. Namun, Jika dokumen HTML diperiksa menggunakan alat validasi seperti W3C Validator, dokumen tersebut akan dianggap tidak valid karena tag html wajib secara teknis.
 
 2. Kedua Tag Meta charset(utf-8) berfungsi untuk menentukan karakter encoding yang digunakan dalam halaman web, lumayan penting untuk memastikan teks ditampilkan dengan benar.
 
 3. Ketiga Tag Meta Name("viewport") untuk mengontrol tampilan dalam web pada perangkat mobile, juga membantu dalam responsivitas desain halaman web
 
-4. Keempat Ah dan tentu saja Tag <head> sebagai bagian dari dokumen yang berisi informasi meta dan pengaturan tentang halaman web. Meskipun konten yang ada di dalam tag <head> tidak ditampilkan secara langsung di halaman web, tag ini sangat penting untuk pengaturan dan informasi yang memengaruhi cara halaman ditampilkan dan diindeks oleh mesin pencari nanti.
+4. Keempat Ah dan tentu saja Tag head sebagai bagian dari dokumen yang berisi informasi meta dan pengaturan tentang halaman web. Meskipun konten yang ada di dalam tag head tidak ditampilkan secara langsung di halaman web, tag ini sangat penting untuk pengaturan dan informasi yang memengaruhi cara halaman ditampilkan dan diindeks oleh mesin pencari nanti.
 
-5. Kelima Tag <Link> untuk style.css yang akan berfungsi sebagai jembatan penghubung antara file index.html dengan style.css.
+5. Kelima Tag Link untuk style css yang akan berfungsi sebagai jembatan penghubung antara file index html dengan style css.
 
 # style.css(sebelum revisi) :
 ![CSS(sebelum)](https://github.com/user-attachments/assets/decdb21f-f40d-4951-b064-f5a58e83da14)
