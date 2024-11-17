@@ -1,0 +1,46 @@
+
+body { 
+    display:grid; 
+    grid-template-areas:       
+    "header header header" 
+    "nav section section"      
+    "footer footer footer";    
+    grid-template-rows: 80px 1fr 50px;  	
+    grid-template-columns: 20% 1fr 18%;  	
+    grid-gap: 5px;    
+    height: 100vh;    
+    margin: 10px; 
+} 
+
+header, nav, section, footer 
+{  	
+    padding: 5px; 
+
+}
+    
+nav {
+    background: #2a2b41;  
+    grid-area: nav; 
+
+} 
+    header { 
+        background: #bbbfe2;  	
+        grid-area: header;  	
+        text-align : center; 
+}
+    nav {
+        background: #2a2b41;  
+        grid-area: nav; 
+
+}
+    section { 
+        background: #e5e9e8;    
+        grid-area: section; 
+} 
+    footer { 
+        background: #026b94;  	
+        grid-area: footer;    
+        font-size : small;    
+        text-align : center; 
+} 
+
