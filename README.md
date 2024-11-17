@@ -1,6 +1,10 @@
 # SEMANTIK-HTML
 Latihan Praktikum 1 Semantik HTML
 
+#### Nama  : Krisna Satya Arisandy
+#### NIM   : 2205101053
+#### Kelas : 5 - C
+
 ## *Menganalisis dan memberikan penjelasan serta peredaan Code*
 
 # Index.html(Sebelum Revisi) :
